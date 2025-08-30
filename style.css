@@ -76,7 +76,9 @@ textarea:not([rows]) {
 html {
 	font-size: 18px;
 	font-family: 'Andale Mono', 'PT Mono', 'Spot Mono', ui-monospace, monospace;
-	letter-spacing: -10%;
+	letter-spacing: -8%;
+	background-color: rgb(10, 10, 12);
+	color: whitesmoke;
 }
 
 .grid {
